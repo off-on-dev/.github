@@ -2,11 +2,11 @@
 
 Roles and authority are defined in [GOVERNANCE.md](GOVERNANCE.md).
 
-## Lead (Benevolent Dictator)
+## Project Lead
 
 | Name | GitHub | Affiliation (disclosed) |
 |---|---|---|
-| David Hirsch | @<handle> | individual capacity |
+| David Hirsch | @DavidPHirsch | individual capacity |
 
 ## Governance Committee
 
@@ -25,12 +25,12 @@ Per-repository merge rights.
 ### open-source-challenges
 | Name | GitHub | Affiliation |
 |---|---|---|
-| David Hirsch | @<handle> | individual capacity |
+| David Hirsch | @DavidPHirsch | individual capacity |
 
 ### website
 | Name | GitHub | Affiliation |
 |---|---|---|
-| David Hirsch | @<handle> | individual capacity |
+| David Hirsch | @DavidPHirsch | individual capacity |
 
 ---
 
