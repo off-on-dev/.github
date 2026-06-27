@@ -1,0 +1,39 @@
+name: 🐛 Bug report
+description: Report something that isn't working as expected
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Thanks for filing a bug! Please search existing issues first.
+  - type: input
+    id: area
+    attributes:
+      label: Affected area
+      description: Which challenge, page, or component is affected?
+      placeholder: e.g. adventures/opentelemetry-basics, or the /sponsors page
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: A clear description of the bug, including what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: repro
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Go to ...
+        2. Run ...
+        3. See error
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, browser, Node version, Codespaces vs local — whatever is relevant.
+    validations:
+      required: false
